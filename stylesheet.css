@@ -1,11 +1,24 @@
-div.paragraph {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+div {
     font-size: 1vw;
+    font-family: "Montserrat";
+}
+
+div.paragraph {
+    text-align: left;
 }
 
 div.centered {
     margin: 0 auto;
+    text-align: center;
+    display: block;
 }
 
 div.heading {
+    font-size: 3vw;
     margin: 0 auto;
+    text-align: center;
+    display: block;
+    font-weight: 700;
 }
