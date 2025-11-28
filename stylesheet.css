@@ -1,0 +1,11 @@
+div.paragraph {
+    font-size: 1vw;
+}
+
+div.centered {
+    margin: 0 auto;
+}
+
+div.heading {
+    margin: 0 auto;
+}
