@@ -1,5 +1,10 @@
 # PRISM README
-## Q&A
+---
+## About Us
+Placeholder Message
+
+---
+## Q&A 
 
 What does PRISM stand for?\
 Pride, Race, Identity, Sexuality, and Mobility, respectively.
